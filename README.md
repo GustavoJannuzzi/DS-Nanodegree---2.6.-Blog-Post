@@ -73,7 +73,7 @@ To reproduce the analysis, download the 2025 survey results and place the CSV at
 ## Blog Post
 
 Read the non-technical summary on Medium:  
-[The AI Era: What 49,000 Developers Reveal About Trust, Fear, and Job Satisfaction](#)
+[The AI Era: What 49,000 Developers Reveal About Trust, Fear, and Job Satisfaction]([https://medium.com/@gustavojannuzzi/the-ai-era-what-49-000-developers-really-think-about-trust-fear-and-job-satisfaction-9d3b20b0b4bb])
 
 *(link updated after publishing)*
 
