@@ -1,5 +1,5 @@
-# Dataset (large CSV — download separately from survey.stackoverflow.co)
-stack-overflow-developer-survey-2025/
+# Raw CSV is too large for GitHub (135 MB) — use the .zip in the same folder
+stack-overflow-developer-survey-2025/survey_results_public.csv
 
 # Build script (internal tooling, not needed in repo)
 build_notebook.py
